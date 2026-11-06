@@ -197,3 +197,6 @@ OfficeRepairTool/
 - 占用检测与关联进程提示
 - Click-to-Run 服务停启，降低 Local 缓存损坏概率
 - 一键还原 `*.old` 备份
+
+正式许可证见 [MIT](LICENSE)。
+
